@@ -1,0 +1,60 @@
+2024-09-03 14:23:59,265 - INFO: Model loaded successfully
+2024-09-03 14:23:59,265 - INFO: Model loaded successfully
+2024-09-03 14:23:59,265 - INFO: Model loaded successfully
+2024-09-03 14:23:59,265 - INFO: Model loaded successfully
+2024-09-03 14:23:59,265 - INFO: Model loaded successfully
+2024-09-03 14:32:18,877 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:18,877 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:18,877 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:18,877 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:18,877 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:18,877 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:18,877 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:18,877 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:34,146 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:34,146 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:34,146 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:34,146 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:34,146 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:34,146 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:34,146 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:34,146 - INFO: ### Successfully loaded model !###
+2024-09-03 14:32:34,146 - INFO: ### Successfully loaded model !###
+2024-09-03 14:35:08,092 - INFO: ### Successfully loaded model !###
+2024-09-03 14:35:11,808 - INFO: ### Successfully loaded model !###
+2024-09-03 14:35:11,808 - INFO: ### Successfully loaded model !###
+2024-09-03 14:35:11,831 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:35:11,831 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:38:07,956 - INFO: ### Successfully loaded model !###
+2024-09-03 14:38:07,956 - INFO: ### Successfully loaded model !###
+2024-09-03 14:38:07,956 - INFO: ### Successfully loaded model !###
+2024-09-03 14:38:07,966 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:38:07,966 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:38:07,966 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:38:14,734 - INFO: ### Successfully loaded model !###
+2024-09-03 14:38:14,734 - INFO: ### Successfully loaded model !###
+2024-09-03 14:38:14,734 - INFO: ### Successfully loaded model !###
+2024-09-03 14:38:14,734 - INFO: ### Successfully loaded model !###
+2024-09-03 14:38:14,744 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:38:14,744 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:38:14,744 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:38:14,744 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:52:04,714 - INFO: ### Successfully loaded model !###
+2024-09-03 14:52:08,137 - INFO: ### Successfully loaded model !###
+2024-09-03 14:52:08,137 - INFO: ### Successfully loaded model !###
+2024-09-03 14:52:08,157 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:52:08,157 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:52:22,532 - INFO: ### Successfully loaded model !###
+2024-09-03 14:52:22,532 - INFO: ### Successfully loaded model !###
+2024-09-03 14:52:22,532 - INFO: ### Successfully loaded model !###
+2024-09-03 14:52:22,545 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:52:22,545 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:52:22,545 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:52:34,633 - INFO: ### Successfully loaded model !###
+2024-09-03 14:52:34,633 - INFO: ### Successfully loaded model !###
+2024-09-03 14:52:34,633 - INFO: ### Successfully loaded model !###
+2024-09-03 14:52:34,633 - INFO: ### Successfully loaded model !###
+2024-09-03 14:52:34,646 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:52:34,646 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:52:34,646 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:52:34,646 - INFO: ### Sucessfully loaded data analysis agent !###
