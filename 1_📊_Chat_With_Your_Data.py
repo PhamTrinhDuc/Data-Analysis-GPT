@@ -2,7 +2,7 @@ import pandas as pd
 import streamlit as st
 from langchain_experimental.agents.agent_toolkits.pandas.base import create_pandas_dataframe_agent
 from source.model import load_openai_model
-from source.utils import excutor_code
+from source.utils import execute_plt_code
 from logs.logger import set_logging_terminal
 
 
@@ -20,7 +20,7 @@ def process_query(da_agent, query):
     if "plt" in action:
         st.write(response["output"])
 
-        fig = excutor_code(action, df=st.session_state.df)
+        fig = execute_plt_code(action, df=st.session_state.df)
         if fig:
             st.pyplot(fig)
 
@@ -46,8 +46,8 @@ def display_chat_history():
 def main():
 
     # Set up streamlit interface
-    st.set_page_config(page_title="📊 Smart Data Analysis Tool", page_icon="📊", layout="centered")
-    st.header("📊 Smart Data Analysis Tool")
+    st.set_page_config(page_title="Data Analysis Tool", layout="centered")
+    st.header("📊 Smart Data Analysis Tool GPT")
     st.write(
         "### Welcome to our data analysis tool. This tools can assist your daily data analysis tasks. Please enjoy !"
     )

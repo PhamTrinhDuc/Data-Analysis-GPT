@@ -58,3 +58,11 @@
 2024-09-03 14:52:34,646 - INFO: ### Sucessfully loaded data analysis agent !###
 2024-09-03 14:52:34,646 - INFO: ### Sucessfully loaded data analysis agent !###
 2024-09-03 14:52:34,646 - INFO: ### Sucessfully loaded data analysis agent !###
+2024-09-03 14:59:57,585 - INFO: ### Successfully loaded model !###
+2024-09-03 14:59:57,585 - INFO: ### Successfully loaded model !###
+2024-09-03 14:59:57,585 - INFO: ### Successfully loaded model !###
+2024-09-03 14:59:57,585 - INFO: ### Successfully loaded model !###
+2024-09-03 14:59:57,585 - INFO: ### Successfully loaded model !###
+2024-09-03 15:02:30,018 - INFO: ### Successfully loaded model !###
+2024-09-03 15:02:30,983 - INFO: ### Successfully loaded model !###
+2024-09-03 15:02:30,983 - INFO: ### Successfully loaded model !###
